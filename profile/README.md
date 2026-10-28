@@ -24,6 +24,11 @@ Every new video from Strong Towns and other urbanism YouTube channels, newest fi
 - [ParkingLots](https://github.com/strongtowns/ParkingLots) maps every surface parking lot in an area from OpenStreetMap data
 - [ssmuhplanner](https://github.com/strongtowns/ssmuhplanner) checks a lot for small-scale multi-unit housing and lays out buildings against a BC zoning bylaw
 - [ScrollingComparison](https://github.com/strongtowns/ScrollingComparison) makes scrolling before and after videos of roads and neighbourhoods
+- [transit-gaps-kit](https://github.com/strongtowns/transit-gaps-kit) reads a town's public GTFS feed and reports its Sunday, evening and short-day gaps in bus service
+
+## Contributors
+- [jameshansen](https://github.com/jameshansen)
+- [brevitywithorion](https://github.com/brevitywithorion)
 
 Built a tool for your own local conversation? Bring it to the Discord.
 
